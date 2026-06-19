@@ -1,5 +1,0 @@
-Description:
-AI-powered phishing detection API — Go ile yazılmış, DeepSeek entegrasyonlu güvenlik tarama aracı.
-
-Topics:
-go, security, phishing, ai, deepseek, recon, threat-intel, api
